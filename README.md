@@ -28,6 +28,7 @@ Matplotlib is a Python 2D plotting library which produces publication quality fi
 
 ### IPython.display
 We can install IPython.display by running the command " pip install ipython.display"
+![image](https://github.com/RemyElizabethJoseph/codingTasks/assets/165270924/95d5f8d7-b815-489a-91a0-22c5fced835a)
 
 ## Credits
 
