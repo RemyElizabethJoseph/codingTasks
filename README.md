@@ -1,15 +1,21 @@
 # Supervised Learning-Decision Trees
 
 ## Introduction
+
 In this task, we decribe tree-based methods for regression and classification. Tree based methods solve problems using a flowchart like structure that is easy to interpret. Here, I have created a decision tree to predict the suvival of passengers on the Titanic. I have used "titanic.csv" data set to complete the task. After the datacleaning I have initialized dependent and independent variables afrom the data and split data into training, testing  and development sets and plotted a decision tree using the training set. Created  train and dev accuracy lists in range 2-10 of max_depth values and plotted them against max_depth values to find the best max_depth value. Decision trees make choices through binary splits which makes it easier to make the decisions and also decision trees can handle large datasets and increased volumns of data without sacrificing prediction speed or accuracy
 
 ## Table of contents
+
 1. Introduction
 2. Installation guide for python libraries
+   
    2.a Jupyter Notebook
+   
    2.b Scikit learn
+   
    2.c Matplotlib
-3. Credits 
+   
+4. Credits 
 
 ## Installation guide for python Libraries
 
