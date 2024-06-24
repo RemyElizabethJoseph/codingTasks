@@ -39,4 +39,6 @@ We can install IPython.display by running the command " pip install ipython.disp
 
 ## Credits
 
+All the mentors at Hyperion dev
+
 
